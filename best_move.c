@@ -1,4 +1,3 @@
-am codul asta care gasete cel mai bun move, fa un readme pt repoul in care il bag
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
